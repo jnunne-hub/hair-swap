@@ -21,13 +21,7 @@ export const SparklesIcon: React.FC = () => (
 
 export const ArrowPathIcon: React.FC = () => (
   <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
-    <path strokeLinecap="round" strokeLinejoin="round" d="M4 4v5h5M20 20v-5h-5M4 4l16 16" />
-     <path strokeLinecap="round" strokeLinejoin="round" d="M19.5 4.5l-15 15" />
-    <path strokeLinecap="round" strokeLinejoin="round" d="M4.5 19.5l15-15" />
-    <path strokeLinecap="round" strokeLinejoin="round" d="M9 20H5a1 1 0 01-1-1V5a1 1 0 011-1h4" />
-    <path strokeLinecap="round" strokeLinejoin="round" d="M15 4h4a1 1 0 011 1v14a1 1 0 011 1h-4" />
-     <path strokeLinecap="round" strokeLinejoin="round" d="M16 17l-4-4 4-4" />
-     <path strokeLinecap="round" strokeLinejoin="round" d="M8 7l4 4-4 4" />
+    <path strokeLinecap="round" strokeLinejoin="round" d="M16.023 9.348h4.992v-.001M2.985 19.644v-4.992m0 0h4.992m-4.993 0l3.181 3.183a8.25 8.25 0 0011.664 0l3.181-3.183m-4.991-2.695v.001" />
   </svg>
 );
 
