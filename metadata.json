@@ -1,0 +1,7 @@
+{
+  "name": "AI Hair Swap",
+  "description": "An application that uses AI to take the hair from one person's photo and place it onto another's. Take a photo with your camera, upload a photo for the hairstyle, and see the magic happen.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
